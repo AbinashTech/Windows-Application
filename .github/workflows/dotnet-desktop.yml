@@ -1,13 +1,13 @@
-name: "Bagging_System_Application"
-# Controls when the workflow will run
+name: "Deploy to NuGet"
+
 on:
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+     branches:   [main]
+
 env:
   PROJECT_PATH: 'Testing Applications/Testing Applications.sln'
-  
+  PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
+  NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
 jobs:
   deploy:
@@ -20,11 +20,16 @@ jobs:
     - name: 'Install dotnet'
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '3.0.*'
+        dotnet-version: '3.1.x'
 
-  
+    - name: 'Restore packages'
+      run: dotnet restore ${{ env.PROJECT_PATH }}
+
     - name: 'Build project'
-      run: dotnet build ${{ env.PROJECT_PATH }} 
+      run: dotnet build ${{ env.PROJECT_PATH }} --no-restore --configuration Release
+
     - name: 'Get Version'
       id: version
       uses: battila7/get-version-action@v2
+
+    
