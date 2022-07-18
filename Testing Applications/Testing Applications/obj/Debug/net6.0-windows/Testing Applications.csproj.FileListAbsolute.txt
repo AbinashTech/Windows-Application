@@ -1,0 +1,17 @@
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\bin\Debug\net6.0-windows\Testing Applications.exe
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\bin\Debug\net6.0-windows\Testing Applications.deps.json
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\bin\Debug\net6.0-windows\Testing Applications.runtimeconfig.json
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\bin\Debug\net6.0-windows\Testing Applications.dll
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\bin\Debug\net6.0-windows\Testing Applications.pdb
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.csproj.AssemblyReference.cache
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.AssemblyInfoInputs.cache
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.AssemblyInfo.cs
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.csproj.CoreCompileInputs.cache
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.dll
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\refint\Testing Applications.dll
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.pdb
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.genruntimeconfig.cache
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\ref\Testing Applications.dll
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing_Applications.Form1.resources
+C:\Users\Abinash\source\repos\Testing Applications\Testing Applications\obj\Debug\net6.0-windows\Testing Applications.csproj.GenerateResource.cache
